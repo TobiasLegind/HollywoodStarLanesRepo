@@ -1,0 +1,13 @@
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\bin\Debug\netcoreapp3.1\HollywoodStarLanes.exe
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\bin\Debug\netcoreapp3.1\HollywoodStarLanes.deps.json
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\bin\Debug\netcoreapp3.1\HollywoodStarLanes.runtimeconfig.json
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\bin\Debug\netcoreapp3.1\HollywoodStarLanes.runtimeconfig.dev.json
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\bin\Debug\netcoreapp3.1\HollywoodStarLanes.dll
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\bin\Debug\netcoreapp3.1\HollywoodStarLanes.pdb
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\obj\Debug\netcoreapp3.1\HollywoodStarLanes.csprojAssemblyReference.cache
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\obj\Debug\netcoreapp3.1\HollywoodStarLanes.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\obj\Debug\netcoreapp3.1\HollywoodStarLanes.AssemblyInfoInputs.cache
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\obj\Debug\netcoreapp3.1\HollywoodStarLanes.AssemblyInfo.cs
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\obj\Debug\netcoreapp3.1\HollywoodStarLanes.dll
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\obj\Debug\netcoreapp3.1\HollywoodStarLanes.pdb
+C:\Users\Tobias Legind\source\repos\BowlnFun\BowlnFun\obj\Debug\netcoreapp3.1\HollywoodStarLanes.genruntimeconfig.cache
